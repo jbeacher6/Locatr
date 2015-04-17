@@ -1,6 +1,6 @@
 # Locatr
 iOS app to save location
-This app is used to save user location. I renamed the root folder on github from Assignment6 to Locatr for clarity. 
+This app is used to save user location. I renamed the root folder on github from Assignment 6b to Locatr for clarity. 
 
 Known issues: memory managment needs work, the way I aligned the storyboard on the application makes stack memory keep going higher and higher.
 In Android, I can manage it with intent flags.
